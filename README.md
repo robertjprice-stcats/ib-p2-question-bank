@@ -1,0 +1,1 @@
+This is a personal project using widely available public information designed to help students to understand the sorts of questions that have historically been used for Paper 2 on the IB Language and Literature course.
